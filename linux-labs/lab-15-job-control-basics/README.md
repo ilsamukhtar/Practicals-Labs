@@ -50,3 +50,5 @@ Mastering job control (`bg`, `fg`, `jobs`) enables efficient multitasking direct
 
 ## 📸 Practice Screenshot
 ![Lab 15 Screenshot](./screenshots/lab15-ss1.png)
+![Lab 15 Screenshot](./screenshots/lab15-ss2.png)
+![Lab 15 Screenshot](./screenshots/lab15-ss3.png)
