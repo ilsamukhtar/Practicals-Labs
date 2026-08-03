@@ -1,5 +1,5 @@
 # 🐧 Capstone Lab: Deploying & Hardening "TechNova" Linux Server
-### (Merges Lab 20 → Lab 60 of *Linux Deep Dive* into one continuous, real-world scenario)
+### (Merges Lab 21 → Lab 60 of *Linux Deep Dive* into one continuous, real-world scenario)
 
 ---
 
