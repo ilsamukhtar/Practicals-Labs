@@ -300,8 +300,8 @@ sudo setenforce 1         # back to enforcing
 
 ```
 technova-linux-capstone/
-├── README.md              <- this file
-├── screenshots/           <- terminal screenshots per phase
+├── README.md             
+├── screenshots/          
 ├── configs/
 │   ├── logrotate/technova
 │   └── fstab.snippet
