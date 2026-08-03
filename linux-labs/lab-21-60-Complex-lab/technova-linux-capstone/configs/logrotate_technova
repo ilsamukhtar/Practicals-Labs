@@ -1,0 +1,10 @@
+# Lab 57 – Simple Log Rotation
+# Save this as: /etc/logrotate.d/technova
+# (This copy in the repo is just a reference/backup of your actual config.)
+
+~/technova/cron.log {
+    weekly
+    rotate 4
+    compress
+    missingok
+}

@@ -1,0 +1,8 @@
+# Lab 45 – /etc/fstab entry
+# Append this line to /etc/fstab (after confirming UUID/device with `sudo blkid`)
+# Replace /dev/sdb1 and the UUID with your actual values before using.
+
+/dev/sdb1  /mnt/technova_data  ext4  defaults  0  2
+
+# Test without rebooting:
+#   sudo mount -a
